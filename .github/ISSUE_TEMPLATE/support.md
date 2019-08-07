@@ -1,12 +1,12 @@
 ---
 name: Support
-about: If you need support, you can either xxxxx
-title: "[test]"
+about: For support related request, visit https://support.filestash.app
+title: "[support]"
 labels: ''
 assignees: ''
 
 ---
 
-We don't do support from the github issues, instead you can:
-1. go on our IRC channel and ask your questions
-2. enroll with a customer plan
+We don't provide support through Github, you can either:
+- visit our community support: [https://support.filestash.app](https://support.filestash.app)
+- subscribe to [enterprise support](https://www.filestash.app/pricing/#support)
