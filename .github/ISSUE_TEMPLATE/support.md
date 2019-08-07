@@ -1,12 +1,12 @@
 ---
 name: Support
-about: For support related request, visit https://support.filestash.app
+about: Support related request
 title: "[support]"
 labels: ''
 assignees: ''
 
 ---
 
-We don't provide support through Github, you can either:
+Please don't create issue tickets for support, instead:
 - visit our community support: [https://support.filestash.app](https://support.filestash.app)
 - subscribe to [enterprise support](https://www.filestash.app/pricing/#support)
